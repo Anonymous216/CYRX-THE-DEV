@@ -1,5 +1,6 @@
 .header,
-a {
+a,
+#logo:hover {
   display: block;
   color: gray;
   text-align: center;
