@@ -1,6 +1,6 @@
 Hi there, I'm <CYRUSTHEDEv> 👋
 
-🎓 **1st Year BSIT Student** | 🐍 **Python & Security Enthusiast** | 🌐 **Aspiring Web Developer**
+🎓 **1st Year BSIT Student** | 🐍 **Python & CyberSecurity Enthusiast** | 🌐 **Aspiring Web Developer**
 
 ---
 
